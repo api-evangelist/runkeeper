@@ -1,0 +1,56 @@
+{
+    "name": "RunKeeper",
+    "description": "Join the community of over 45 million runners who make every run amazing with Runkeeper. Track your workouts and reach your fitness goals!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/916-runkeeper.jpg",
+    "tags": [
+        "communities",
+        "devices",
+        "excercise",
+        "fitness",
+        "have api",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/runkeeper\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "RunKeeper",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/916-runkeeper.jpg",
+            "humanURL": "http:\/\/runkeeper.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/runkeeper-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/runkeeper.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.runkeeper.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/runkeeper"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/runkeeper"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/runkeeper.com"
+        }
+    ]
+}
