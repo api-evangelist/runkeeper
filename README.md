@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Runkeeper is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://runkeeper.com/
+Runkeeper provides a social fitness platform and mobile app that helps users track runs, set goals, and join a community of runners. The service offers GPS‑based activity logging, training plans, and integration with wearables, enabling users to monitor progress, share achievements, and stay motivated through challenges and social features.
+
+**Areas:** Fitness · Social · MobileApp · Tracking · Community · Health
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://runkeeper.com/)
+- [Documentation](https://help.runkeeper.com/)
+- [Blog](https://runkeeper.com/cms/blog/)
+- [Terms of service](https://runkeeper.com/cms/terms-of-service/)
+- [Privacy policy](https://runkeeper.com/cms/privacy-policies/)
+- [GitHub](https://github.com/Runkeeper)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/runkeeper/](https://apis.io/providers/runkeeper/).
